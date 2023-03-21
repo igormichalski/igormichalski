@@ -11,15 +11,11 @@
 </a>
 <br>
 <br>
-> <i>Olá, sou Igor Nunes, atualmente sou desenvolvedor de software front-end e back-end. Sou um entusiasta e curioso por tecnologia, que anseia por se tornar um desenvolvedor fullstack.</i>
+> <i>Opah, Me chamo Igor Roberto. Atualmente sou estudante de Ciencia da Computação na UEMS - Dourados. Sou extremamente ligado as novas tecnologias que surgem no mercado.</i>
 </br>
 <br>
-> <i>Hello, I'm Igor Nunes, I'm currently a front-end and back-end software developer. I'm a tech enthusiast and curious who yearns to become a fullstack developer.</i>
+> <i>Hey, my name is Igor Roberto. I am currently a Computer Science student at UEMS - Dourados. I am extremely connected to new technologies that appear in the market.</i>
 </br>
-<br>
-> <i>Hola, soy Igor Nunes, actualmente soy desarrollador de software front-end y back-end. Soy un entusiasta de la tecnología y curioso que anhela convertirme en un desarrollador fullstack.</i>
-</br>
-
 <br>
 </br>
 <b>Languages and tools:</b> 
