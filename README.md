@@ -38,7 +38,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=igormichalski&show_icons=true&theme=gotham" alt="igornunes7" />
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
+<a href="https://github.com/igornunes7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=gotham&hide_border=true"/></a>
   
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
