@@ -1,12 +1,12 @@
-# Olá, sou o Igor 👋 
+# Olá, me chamo Igor Roberto 👋 
 
-<a href="https://www.instagram.com/nunesigor__/">
+<a href="https://www.instagram.com/igormichalski_/">
   <img align="left" alt="Igor's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/igor-nunes-88b267234/">
+<a href="https://www.linkedin.com/in/igormichalski/">
   <img align="left" alt="Igor's Linkedin" width="85px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/noigor_">
+<a href="https://twitter.com/igorshampoo">
   <img align="left" alt="Igor's Twitter" width="81px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <br>
