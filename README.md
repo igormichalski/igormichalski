@@ -16,6 +16,7 @@
 <br>
 > <i>Hey, my name is Igor Roberto. I am currently a Computer Science student at UEMS - Dourados. I am extremely connected to new technologies that appear in the market.</i> 
 </br>
+<br>
 <b>Languages and tools:</b> 
 <br></br>
 
