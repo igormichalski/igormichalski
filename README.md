@@ -29,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="40" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="45" style="padding-right: 5px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains"  height="45" style="padding-right: 5px"/>
 </div>
 <br>
 </br>
