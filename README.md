@@ -11,7 +11,7 @@
 </a>
 <br>
 <br>
-> <i>Opah, Me chamo Igor Roberto. Atualmente sou estudante de Ciencia da Computação na UEMS - Dourados. Sou extremamente ligado as novas tecnologias que surgem no mercado.</i>
+> <i>Opa, Me chamo Igor Roberto. Atualmente sou estudante de Ciencia da Computação na UEMS - Dourados. Sou extremamente ligado as novas tecnologias que surgem no mercado.</i>
 </br>
 <br>
 > <i>Hey, my name is Igor Roberto. I am currently a Computer Science student at UEMS - Dourados. I am extremely connected to new technologies that appear in the market.</i> 
