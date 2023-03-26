@@ -37,6 +37,6 @@
 <br>
 </br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=igormichalski&show_icons=true&theme=react" alt="igormichalksi" />
-<a href="https://github.com/igormichalksi/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=gotham&hide_border=true"/></a>
+<a href="https://github.com/igormichalksi/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=react&hide_border=true"/></a>
   
  ![snake gif](https://github.com/igormichalski/igormichalski/blob/output/github-contribution-grid-snake.svg)
