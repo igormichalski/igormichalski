@@ -32,7 +32,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains"  height="45" style="padding-right: 5px"/>
 </div>
 <br>
+<br>
 📈 <b>My github stats</b>
+<br>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=igormichalski&show_icons=true&theme=midnight-purple" alt="igormichalksi" />
 <a href="https://github.com/igormichalksi/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=midnight-purple&hide_border=true"/></a>
