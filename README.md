@@ -37,8 +37,8 @@
 <br>
 <br>
 <div>
-  <table border="-1">
-    <tr border="-1">
+  <table border="0">
+    <tr border="0">
       <td style="width:50%;"><p> <img src="https://github-readme-stats.vercel.app/api?username=igormichalski&show_icons=true&theme=midnight-purple" alt="igormichalksi" /></td>
       <td style="width:50%;"><a href="https://github.com/igormichalksi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=midnight-purple&hide_border=true"/></a></td>
     </tr>
