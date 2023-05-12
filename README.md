@@ -21,7 +21,7 @@
 <b>Languages and tools:</b> 
 <br></br>
 
-<div style="flex-direction: row; align-itens: center; justify-content: center">
+<div border="1" style="flex-direction: row; align-itens: center; justify-content: center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="45" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="45" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" height="45" style="padding-right: 5px"/>
