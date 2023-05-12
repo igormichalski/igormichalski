@@ -36,7 +36,13 @@
 📈 <b>My github stats</b>
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=igormichalski&show_icons=true&theme=midnight-purple" alt="igormichalksi" />
-<a href="https://github.com/igormichalksi/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=midnight-purple&hide_border=true"/></a>
+<div>
+  <table>
+    <tr>
+      <td style="width:50%;"><p> <img src="https://github-readme-stats.vercel.app/api?username=igormichalski&show_icons=true&theme=midnight-purple" alt="igormichalksi" /></td>
+      <td style="width:50%;"><a href="https://github.com/igormichalksi/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormichalski&layout=compact&theme=midnight-purple&hide_border=true"/></a></td>
+    </tr>
+  </table>
+</div>
   
  ![snake gif](https://github.com/igormichalski/igormichalski/blob/output/github-contribution-grid-snake.svg)
