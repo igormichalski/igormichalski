@@ -31,6 +31,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains"  height="45" style="padding-right: 5px"/>
 </div>
+
+<div class="relogio">
+    <div>
+        <span id="horas">00</span>
+        <span class="tempo">Horas</span>
+    </div>
+
+    <div>
+        <span id="minutos">00</span>
+        <span class="tempo">Minutos</span>
+    </div>
+
+    <div>
+        <span id="segundos">00</span>
+        <span class="tempo">Segundos</span>
+    </div>
+</div>
+
+
 <br>
 <br>
 📈 <b>My github stats</b>
