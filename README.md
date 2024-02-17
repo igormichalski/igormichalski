@@ -29,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="40" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="40" style="padding-right: 5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" style="padding-right: 5px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains"  height="45" style="padding-right: 5px"/>
 </div>
 <br>
@@ -44,6 +45,3 @@
     </tr>
   </table>
 </div>
-  
-  ![Snake animation](https://github.com/igormichalski/igormichalski/blob/output/github-contribution-grid-snake.svg)
- 
