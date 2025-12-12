@@ -5,6 +5,22 @@ I'm a Computer Science student at UEMS, currently finishing my undergraduate deg
 I recently completed two international research projects at UNAL (Colombia): one on TDD and LLMs in programming education, and another on bias and diversity in generative AI models.
 Right now, I’m preparing to begin my next international research period at Dalhousie University (Canada) as part of the Mitacs Globalink Research Internship 2026.
 
+🦄 Languages: 
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,php&theme=dark)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="https://www.instagram.com/igormichalski_/">
   <img align="left" alt="Igor's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
