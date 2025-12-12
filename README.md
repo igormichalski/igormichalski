@@ -14,7 +14,7 @@ Right now, I’m preparing to begin my next international research period at Dal
 [![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,ps,bootstrap,css,html,flask,github,idea,jest,mysql,unity&theme=dark)](https://skillicons.dev)
 
 💌 If you have any questions, collaboration ideas, or would like to discuss research and development in AI or Software Engineering, feel free to reach out. <br>
-I’m always open to connecting with new people and exploring meaningful projects. ⤵️
+I’m always open to connecting with new people and exploring meaningful projects. ️
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorroberto2312@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormichalski/)
