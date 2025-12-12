@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Igor Roberto Michalski de Souza
 
-I'm a Computer Science student at UEMS and an international undergraduate researcher focused on Artificial Intelligence, Software Engineering, and programming.
-I have experience in Generative AI, TDD and research collaborations with universities in Colombia (UNAL) and Canada (Dalhousie University).
-
+I'm a Computer Science student at UEMS, currently finishing my undergraduate degree and developing research in Artificial Intelligence and Software Engineering.
+I recently completed two international research projects at UNAL (Colombia): one on TDD and LLMs in programming education, and another on bias and diversity in generative AI models.
+Right now, I’m preparing to begin my next international research period at Dalhousie University (Canada) as part of the Mitacs Globalink Research Internship 2026.
 
 
 <a href="https://www.instagram.com/igormichalski_/">
