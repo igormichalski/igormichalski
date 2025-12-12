@@ -1,4 +1,9 @@
-# Olá, me chamo Igor Roberto 👋 
+# 👋 Hi, I'm Igor Roberto Michalski de Souza
+
+I'm a Computer Science student at UEMS and an international undergraduate researcher focused on Artificial Intelligence, Software Engineering, and programming.
+I have experience in Generative AI, TDD and research collaborations with universities in Colombia (UNAL) and Canada (Dalhousie University).
+
+
 
 <a href="https://www.instagram.com/igormichalski_/">
   <img align="left" alt="Igor's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
