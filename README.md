@@ -16,7 +16,7 @@ Right now, I’m preparing to begin my next international research period at Dal
 💌 If you have any questions, collaboration ideas, or would like to discuss research and development in AI or Software Engineering, feel free to reach out.
 I’m always open to connecting with new people and exploring meaningful projects. ⤵️
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:igorroberto2312@gmail.com)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:{igorroberto2312@gmail.com})](mailto:{igorroberto2312@gmail.com})
 
 
 
