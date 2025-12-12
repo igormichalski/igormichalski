@@ -6,9 +6,11 @@ I recently completed two international research projects at UNAL (Colombia): one
 Right now, I’m preparing to begin my next international research period at Dalhousie University (Canada) as part of the Mitacs Globalink Research Internship 2026.
 
 🦄 Languages: 
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,go,php,java,r&theme=dark)](https://skillicons.dev)
 
 💼 Tools:
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,ps,bootstrap,css,html,flask,github,idea,jest,mysql,unity&theme=dark)](https://skillicons.dev)
 
 
