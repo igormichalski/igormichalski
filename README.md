@@ -11,7 +11,7 @@ Right now, I’m preparing to begin my next international research period at Dal
 
 💼 Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,ps,bootstrap,css,html,flask,github,idea,jest,mysql,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vscode,ps,bootstrap,css,html,flask,github,react,jest,mysql,unity&theme=dark)](https://skillicons.dev)
 
 If you have any questions, collaboration ideas, or would like to discuss research and development in AI or Software Engineering, feel free to reach out. <br>
 I’m always open to connecting with new people and exploring meaningful projects. ️
