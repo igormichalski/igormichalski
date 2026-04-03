@@ -7,7 +7,7 @@ Right now, I’m preparing to begin my next international research period at Dal
 
 ​🔥​ Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,go,php,java,r&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,php,java&theme=dark)](https://skillicons.dev)
 
 💼 Tools:
 
