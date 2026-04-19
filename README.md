@@ -17,7 +17,7 @@ In Brazil, I work as a software development intern at COOPAER, working with Reac
 If you have any questions, collaboration ideas, or would like to discuss research and development in AI or Software Engineering, feel free to reach out. <br>
 I’m always open to connecting with new people and exploring meaningful projects. ️
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorroberto2312@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoigormichalski@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormichalski/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/igorshampoo)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igormichalski_/)
