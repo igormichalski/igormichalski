@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Igor Roberto Michalski de Souza
 
-I'm a Computer Science student at UEMS, currently finishing my undergraduate degree and developing research in Artificial Intelligence and Software Engineering.
+Computer Science student at UEMS with international experience as a visiting researcher at Dalhousie University (Canada), where I developed a complete satellite image processing pipeline.
 
-I recently completed two international research projects at UNAL (Colombia): one on TDD and LLMs in programming education, and another on bias and diversity in generative AI models.
-Right now, I’m preparing to begin my next international research period at Dalhousie University (Canada) as part of the Mitacs Globalink Research Internship 2026.
+I also participated in scientific research in collaboration between UEMS and UNAL (Colombia) investigating the use of Generative AI (ChatGPT) in programming education with TDD, with a paper submitted for publication in an international scientific journal.
+
+In Brazil, I work as a software development intern at COOPAER, working with React.js, TypeScript, Ruby on Rails and Python in a real web system for cooperative member management.
 
 ​🔥​ Languages: 
 
